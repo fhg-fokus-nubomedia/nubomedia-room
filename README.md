@@ -2,8 +2,6 @@
 
 Adaptation of the Kurento Room Application Server for the NUBOMEDIA cloud platform
 
-
-
 This project is part of the [NUBOMEDIA](http://www.nubomedia.eu/) research initiative.
 
 
